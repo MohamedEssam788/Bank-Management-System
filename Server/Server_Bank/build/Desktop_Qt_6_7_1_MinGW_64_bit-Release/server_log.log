@@ -1,0 +1,12 @@
+2024-07-16 09:18:31 - Operation: login, Data: essam,1234
+2024-07-16 09:18:58 - Operation: login, Data: essam,1234
+2024-07-16 09:19:00 - Operation: getAccountNumber, Data: essam
+2024-07-16 09:19:02 - Operation: transactionHistory, Data: 202100
+2024-07-16 09:19:12 - Operation: login, Data: ahmed,1234
+2024-07-16 09:19:14 - Operation: getAccountNumber, Data: ahmed
+2024-07-16 09:19:17 - Operation: logout, Data: ahmed
+2024-07-16 09:19:18 - Operation: logout, Data: ahmed
+2024-07-16 09:19:21 - Operation: logout, Data: essam
+2024-07-16 09:19:21 - Operation: logout, Data: essam
+2024-07-17 01:57:21 - Operation: login, Data: essam,1234
+2024-07-17 01:57:55 - Operation: login, Data: essam,1234

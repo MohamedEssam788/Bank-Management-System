@@ -1,0 +1,15 @@
+debug/AdminWindow.o
+debug/Client.o
+debug/LocalHost.o
+debug/RealRequest.o
+debug/RequestEncryption.o
+debug/SentRequest.o
+debug/Table.o
+debug/UserWindow.o
+debug/main.o
+debug/mainwindow.o
+debug/qrc_Recources.o
+debug/moc_AdminWindow.o
+debug/moc_Client.o
+debug/moc_UserWindow.o
+debug/moc_mainwindow.o

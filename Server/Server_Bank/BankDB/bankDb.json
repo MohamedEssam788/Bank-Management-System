@@ -1,0 +1,57 @@
+[
+    {
+        "Available": true,
+        "Email": "mohamedeassam788@gmail.com",
+        "Signature": "U5SRE2X7vWW+MP5ExhBVqdDXk6uDhkw2AH8whXLVumU=",
+        "Transaction History": [
+            {
+                "date time": "2024-07-19 18:45:13",
+                "details": "-100"
+            },
+            {
+                "date time": "2024-07-20 16:23:38",
+                "details": "100"
+            },
+            {
+                "date time": "2024-07-20 16:23:50",
+                "details": "-20"
+            },
+            {
+                "date time": "2024-07-20 16:32:18",
+                "details": "300 to 203040"
+            }
+        ],
+        "accBalance": 6680,
+        "accNumber": "202100",
+        "age": "18",
+        "auth": "user",
+        "fullName": "mohamed essam badawy",
+        "password": "1234",
+        "username": "essam"
+    },
+    {
+        "Available": true,
+        "accNumber": "444555",
+        "auth": "admin",
+        "password": "3456",
+        "username": "mohamed"
+    },
+    {
+        "Available": true,
+        "Email": "ahmed@gmail.com",
+        "Signature": "ynWlAtX4Xvoc7bszONUej2wWx1i2ME0sFZTFeCszIDY=",
+        "Transaction History": [
+            {
+                "date time": "2024-07-20 16:32:18",
+                "details": "300 from 202100"
+            }
+        ],
+        "accBalance": 7400,
+        "accNumber": "203040",
+        "age": "25",
+        "auth": "user",
+        "fullName": "ahmed essam",
+        "password": "1234",
+        "username": "ahmed"
+    }
+]

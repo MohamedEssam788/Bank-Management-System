@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>img/Casa.jpg</file>
+        <file>img/hide_pass.jpeg</file>
+        <file>img/show_pass.jpeg</file>
+        <file>img/user.png</file>
+        <file>img/adminicon.png</file>
+    </qresource>
+    <qresource prefix="/">
+        <file>img/icon.jpeg</file>
+    </qresource>
+</RCC>

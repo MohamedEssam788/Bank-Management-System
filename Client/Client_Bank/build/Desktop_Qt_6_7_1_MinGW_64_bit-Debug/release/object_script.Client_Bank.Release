@@ -1,0 +1,15 @@
+release/AdminWindow.o
+release/Client.o
+release/LocalHost.o
+release/RealRequest.o
+release/RequestEncryption.o
+release/SentRequest.o
+release/Table.o
+release/UserWindow.o
+release/main.o
+release/mainwindow.o
+release/qrc_Recources.o
+release/moc_AdminWindow.o
+release/moc_Client.o
+release/moc_UserWindow.o
+release/moc_mainwindow.o
